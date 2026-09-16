@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conversion Rate Optimization &amp; A/B Testing Guild</title>
+    <link>https://jibranpcccc.github.io/cro-ab-testing-experimentation-guild/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Wed, 16 Sep 2026 10:47:31 GMT</lastBuildDate>
+    <atom:link href="https://jibranpcccc.github.io/cro-ab-testing-experimentation-guild/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>Conversion Rate Optimization &amp; A/B Testing Guild Initial Release</title>
+      <link>https://jibranpcccc.github.io/cro-ab-testing-experimentation-guild/</link>
+      <pubDate>Wed, 16 Sep 2026 10:47:31 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
